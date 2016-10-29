@@ -5,7 +5,9 @@ Summary: This data visulization shows the departure delay time for each major ca
 
 Design: I choose to analyzie flight departure time becasue I feel like it has been overlooked since people tend to talk more about the arrival time. 
 
-Feedback:
+Feedback: Add an interative legand so that users can slect the carriers of interests.
+          Add the label to X axix
+          Add animation when the graph appears
 
 Resources:
 
