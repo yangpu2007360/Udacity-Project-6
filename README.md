@@ -28,6 +28,8 @@ Feedback:
           
           3: from friend Dachi Xu (Amazon Data Scienitist)
           
+          The lines are overlaped and unclear to see.
+          
           
 
 Resources:
