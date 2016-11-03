@@ -15,7 +15,7 @@ Design: I choose to analyzie flight departure time becasue I feel like it has be
         As usual, X-axix reprent the year and Y-axis reprent departure delay time in minutes.
         
 Feedback: 
-          1: from my friend Yongqi Wen
+          1: from my friend Yongqi Wen (non techinical)
           
           Add an interative legand so that users can slect the carriers of interests.
           Add the label to X axix
@@ -25,6 +25,8 @@ Feedback:
           
           Add the findings in text
           write out the full names for legends
+          
+          3: from friend Dachi Xu (Amazon Data Scienitist)
           
           
 
