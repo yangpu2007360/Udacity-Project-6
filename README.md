@@ -28,7 +28,7 @@ Feedback:
           
           3: from friend Dachi Xu (Amazon Data Scienitist)
           
-          The lines are overlaped and unclear to see.
+          it's not clear to see the lines if there are overlaps between them, making opacity variable depending                     on    user's interaction will improve the presentation
           
           
 
