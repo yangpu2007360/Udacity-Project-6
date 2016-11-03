@@ -26,7 +26,7 @@ Feedback:
           Add the findings in text
           write out the full names for legends
           
-          3: from friend Dachi Xu (Amazon Data Scienitist)
+          3: from friend Dachi Xu (NetEase Front End Developer)
           
           it's not clear to see the lines if there are overlaps between them, making opacity variable depending                     on    user's interaction will improve the presentation
           
